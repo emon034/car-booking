@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../Component/Layout/Layout.jsx";
+import Layout from "../component/Layout/Layout.jsx";
 import OurMission from "../component/our-misson/our-misson.jsx";
 import Hero from "../component/hero/hero.jsx";
 import Brands from "../component/cart/brands.jsx";
